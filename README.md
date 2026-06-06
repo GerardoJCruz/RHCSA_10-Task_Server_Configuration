@@ -11,12 +11,16 @@ This simulation is designed to:
 - Combine objectives.
 - Test persistence and trouble shooting.
 
+---
+
 ## Naming Conventions:
 
 ### Servers:
 
 - servera.lab.local: Main server where most part of the configurations will be executed.
 - serverb.lab.local: Secondary service used to test or for extra configurations.
+
+---
 
 ## Cover Tasks:
 
