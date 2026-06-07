@@ -24,4 +24,8 @@ Additional requirements:
 ![Alex-Account-Experiation day](/Images/task_1/alex_account_expriration.jpg)
 
 - sara must have passwordless sudo access
+(Sara is added to the sudoers file.)
+![Sudoers-File-Updated](/Images/task_1/sudoers_file_edited.jpg)
+
+Sara passwordless sudo permission verified using a comparation between alex and sara running the same command: sudo dnf update.
 ![Sara-Passwordless-sudo](/Images/task_1/sara_passwordless_sudo_access_verification.jpg)
