@@ -4,6 +4,7 @@ Create the following local groups:
 
 - operations
 - engineering
+
 ![Groups-Creation](/Images/task_1/groups_creation.jpg)
 
 Create the following users with the listed requirements:
@@ -11,6 +12,7 @@ Create the following users with the listed requirements:
 - User	Primary Group	Secondary Group
 - alex	operations	engineering
 - sara	engineering	operations
+
 ![User-Creation](/Images/task_1/users_creation.jpg)
 
 Additional requirements:
